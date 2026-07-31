@@ -44,7 +44,7 @@ This repository distributes the **compiled APK only** — no source code, no bui
 
 ## 📸 Screenshots
 
-<img src="docs/screenshots/home.png" width="240"/> <img src="docs/screenshots/reader.png" width="240"/> <img src="docs/screenshots/library.png" width="240"/>
+<img src="docs/screenshots/dashboard.png" width="240"/> <img src="docs/screenshots/pdf_screen.png" width="240"/> width="240"/>
 
 
 ## 📥 Installation
