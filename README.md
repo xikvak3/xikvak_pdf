@@ -66,7 +66,7 @@ This repository distributes the **compiled APK only** — no source code, no bui
 XIKVAK PDF is free. If it's useful to you, a donation of any size keeps development alive:
 
 - **Card (Visa):** `4916 9903 1117 9219`
-- **Card holder:** XLKVAK
+- **Card holder:** Azizjon
 - **Telegram:** [@XlKVAK](https://t.me/XlKVAK)
 - **Email:** [xikvak3@gmail.com](mailto:xikvak3@gmail.com)
 
@@ -76,12 +76,6 @@ Found a bug, or have a feature idea? Reach out through Telegram or email above, 
 
 ## ⚠️ Disclaimer
 
-XIKVAK PDF is an independent project and is not affiliated with, endorsed by, or sponsored by Adobe, Google, or any other document software vendor.
-
-## 📄 License
-
-*Add your chosen license here (e.g. MIT, Apache 2.0, or "All rights reserved") before publishing.*
-
----
+XIKVAK PDF is an independent project and is not affiliated with, endorsed by, or sponsored by Adobe, Google, or any other document software vendor.-
 
 <div align="center">Made with care</div>
